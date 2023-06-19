@@ -1,7 +1,7 @@
 Fraud Detection in Electricity and Gas Consumption
 ==============================
 
-Project dataset: https://www.kaggle.com/datasets/gauravduttakiit/fraud-detection-in-electricity-and-gas-consumption
+Project dataset: https://www.kaggle.com/datasets/mrmorj/fraud-detection-in-electricity-and-gas-consumption
 
 Project Organization
 ------------
