@@ -1,6 +1,10 @@
 Fraud Detection in Electricity and Gas Consumption
 ==============================
 
+The Tunisian Company of Electricity and Gas (STEG) is a public and a non-administrative company, it is responsible for delivering electricity and gas across Tunisia. The company suffered tremendous losses in the order of 200 million Tunisian Dinars due to fraudulent manipulations of meters by consumers.
+<br \>
+<br \>
+
 Project dataset: https://www.kaggle.com/datasets/mrmorj/fraud-detection-in-electricity-and-gas-consumption
 
 Project Organization
